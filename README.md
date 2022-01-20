@@ -1,4 +1,5 @@
 # laravelblog
+<p align="center">This repo has been created by code along with video <a href="https://www.youtube.com/watch?v=HKJDLXsTr8A">How To Create A Blog In Laravel 8 | Laravel 8 CRUD | Laravel 8 Blog | Create A Blog In Laravel</a>. Special thanks to <a href="https://github.com/codewithdary">Code with Dary</a></p>
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
